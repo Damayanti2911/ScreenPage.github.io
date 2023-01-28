@@ -1,0 +1,28 @@
+h1 {
+    margin-left: 60px;
+    }
+    form li {
+    list-style: none;
+    margin-bottom: 5px;
+    }
+    
+
+    form ul li input, select, span {
+    float: left;
+    margin-bottom: 10px;
+    
+    }
+    
+    form textarea {
+    float: left;
+    width:400px;
+    height: 150px;
+    }
+    
+  
+    
+    p {
+    margin-left: 70px;
+    font-weight: bold;
+    }
+    
